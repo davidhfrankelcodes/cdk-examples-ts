@@ -89,7 +89,7 @@ jobs:
 
 ## 🧑‍💻 Author
 **David Frankel**  
-[github.com/davidfrankel](https://github.com/davidhfrankelcodes)
+[github.com/davidhfrankelcodes](https://github.com/davidhfrankelcodes)
 
 ---
 
